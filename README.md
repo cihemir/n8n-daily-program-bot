@@ -25,3 +25,5 @@ The system eliminates the need for manual tracking by ensuring the academic sche
 
 ---
 *This project has been developed as part of engineering efforts to increase the efficiency of academic processes.*
+<img width="1918" height="908" alt="n8ndailyschedule" src="https://github.com/user-attachments/assets/3b3c6006-27bc-45bc-8e36-29155e9a2aac" />
+
